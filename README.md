@@ -1,4 +1,4 @@
-![US](https://github.com/user-attachments/assets/b703b54d-c388-444c-b2c2-8e509d619be5)
+![US](https://github.com/user-attachments/assets/d12c1aee-9692-4d05-a007-00d8fc4f8598)
 
 > Smart and educational political figure simulation game.
 
