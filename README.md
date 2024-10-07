@@ -1,4 +1,4 @@
-![World Leader Sim](https://github.com/user-attachments/assets/a6b63292-571e-44a6-adda-332b13bdccc3)
+![US](https://github.com/user-attachments/assets/b703b54d-c388-444c-b2c2-8e509d619be5)
 
 > Smart and educational political figure simulation game.
 
@@ -9,6 +9,10 @@
 The interactions in World Leader Sim are structured around realistic scenarios, with the GPT offering multiple-choice options that represent the kinds of decisions a leader might face. These could range from handling domestic policy crises, such as economic downturns or social unrest, to managing international relations, such as negotiating trade deals or responding to geopolitical conflicts. Each decision is crafted to mirror plausible outcomes and is rooted in a deep understanding of global affairs, ensuring that players gain insight into the strategic considerations and ethical dilemmas faced by real-world leaders.
 
 In addition to strategic decision-making, World Leader Sim also emphasizes the importance of long-term planning and the unintended consequences of actions. For example, a player’s decision to cut environmental regulations might boost short-term economic growth but lead to environmental degradation and international criticism. By balancing immediate needs with long-term goals, players learn the art of governance in a realistic, engaging manner. Overall, this GPT offers an educational and thought-provoking experience, fostering a deeper appreciation for the challenges of global leadership.
+
+#
+
+![World Leader Sim](https://github.com/user-attachments/assets/a6b63292-571e-44a6-adda-332b13bdccc3)
 
 #
 ### Related Links
